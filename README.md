@@ -3,7 +3,7 @@
 </h3>
 
 <h6 align=center>
-    <a href="https://github.com/ezekielj20/xmlrpc_php_DOS#usage">Usage</a>
+    <a href="https://github.com/ezekielj20/xmlrpc_php_DOS#usage">How to run script</a>
     ·
     <a href="https://github.com/ezekielj20/xmlrpc_php_DOS#how-to-install">Install</a>
     ·
