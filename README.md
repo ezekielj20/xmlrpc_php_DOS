@@ -17,6 +17,7 @@
 </p>
 
 ### How to run script
+> <code>chmod +x xmlrpc_php_DOS.sh \<url\></code>
 > <code>./xmlrpc_php_DOS.sh \<url\></code>
 <table>
     <tr>
